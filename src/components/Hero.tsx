@@ -80,10 +80,10 @@ const Hero: React.FC = () => {
           <ContactLink href="tel:+918279933693">
             <Icon icon={FaPhone} /> +91 8279933693
           </ContactLink>
-          <ContactLink href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+          <ContactLink href="www.linkedin.com/in/abhay-singh-1112as" target="_blank" rel="noopener noreferrer">
             <Icon icon={FaLinkedin} /> LinkedIn
           </ContactLink>
-          <ContactLink href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
+          <ContactLink href="https://github.com/abhay-singh1100" target="_blank" rel="noopener noreferrer">
             <Icon icon={FaGithub} /> GitHub
           </ContactLink>
         </ContactInfo>
